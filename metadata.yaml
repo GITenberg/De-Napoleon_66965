@@ -1,0 +1,40 @@
+_repo: De-Napoleon_66965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suarès, André
+    aliases:
+    - Séipse, André de
+    - Bangor, Félix
+    - Makepace Bruce, William
+    - Caerdal
+    - Caërdal
+    - Scantrel, Yves
+    - Scantrel, Felix Andre Yves
+    - Seipse, Andre de
+    - Bruce, William Makepace
+    - Bondel, Ponce
+    - Suares, Andre
+    - Suarès, Isaac Félix
+    - ResSua
+    - Bangor, Felix
+    - Scantrel, Félix André Yves
+    birthdate: 1868
+    deathdate: 1948
+    gutenberg_agent_id: '49487'
+    url: http://www.gutenberg.org/2009/agents/49487
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Suar%C3%A8s
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Suar%C3%A8s
+description: ''
+gutenberg_issued: '2021-12-18'
+identifiers:
+  gutenberg: '66965'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De Napoléon
+url: http://www.gutenberg.org/ebooks/66965
